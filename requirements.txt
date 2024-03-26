@@ -1,1 +1,7 @@
 datazimmer
+jupyter
+parquetranger
+aswan
+python-dotenv
+tqdm
+unidecode
